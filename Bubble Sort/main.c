@@ -21,5 +21,3 @@ int main(){
 	esvaziar(re);
 	
 }
-
-
