@@ -1,7 +1,5 @@
 # Sorting-Algorithms-in-C
 
-Some sorting algorithms implemented in C
-
 A simple repository management problem is used as an example
 
 ### Bubble Sort:
