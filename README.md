@@ -1,4 +1,4 @@
-# Sorting-Algorithms-in-C
+# Sorting Algorithms in C
 
 <strong>A simple repository management problem is used as an example</strong>
 
@@ -15,9 +15,6 @@ To sort an array of size n in ascending order:</br>
 
 <strong>Merge Sort:</strong></br>
 Most implementations produce a stable sort, which means that the order of equal elements is the same in the input and output. Merge sort is a divide and conquer algorithm that was invented by John von Neumann in 1945. A detailed description and analysis of bottom-up merge sort appeared in a report by Goldstine and von Neumann as early as 1948.</br>
-Conceptually, a merge sort works as follows:
-- Divide the unsorted list into n sublists, each containing one element (a list of one element is considered sorted).</br>
-- Repeatedly merge sublists to produce new sorted sublists until there is only one sublist remaining. This will be the sorted list.
 
 <strong>Quick Sort:</strong></br>
 Is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. For this reason, it is sometimes called partition-exchange sort. The sub-arrays are then sorted recursively. This can be done in-place, requiring small additional amounts of memory to perform the sorting.</br>
